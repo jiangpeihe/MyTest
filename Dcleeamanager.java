@@ -3,7 +3,7 @@ public class Dcleeamanager {
 
     }
 
-    public void tkek(){
+    public void tkek2(){
 
     }
 }
