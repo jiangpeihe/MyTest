@@ -4,6 +4,6 @@ public class Dcleeamanager {
     }
 
     public void tkek222dddw(){
-       //////..
+       //////
     }
 }
